@@ -82,7 +82,7 @@ router.get("/", async (req, res) => {
             );
 
             const sid = `*𝙷𝚈🚀[𝙳𝙰𝙶𝙰𝚈𝙰 𝙼𝙳 𝙱𝙾𝚃]✅*\n\n👉 ${string_session} 👈\n\n*This is the your Session ID, copy this id and paste into config.js file*\n\n*You can ask any question using this link*\n\n*wa.me/message/+94703995359*\n\n*You can join my whatsapp group*\n\n*https://chat.whatsapp.com/I8Vudh4w5sc6VeDHZWNWwy*`;
-            const mg = `🛑 *Do not share this code to anyone* 🛑`;
+            const mg = `🚫*Do not share this code to anyone*🚫`;
             const dt = await RobinPairWeb.sendMessage(user_jid, {
               image: {
                 url: "https://raw.githubusercontent.com/dagaya254/Bot-4to/refs/heads/main/20250303_055414.jpg",
