@@ -9,7 +9,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bungee+Shade&size=25&pause=1000&background=FF000000&width=435&lines=THIS+IS+MALVIN+XD+𝗩2 ❤️+;MALVIN-+XD-+𝗩2 🎉;CREATED+𝗕Y+MALVIN-KING ✔️" alt="Typing SVG" /></a>
   </p>
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/>
+<a><img src='https://raw.githubusercontent.com/dagaya254/Bot-4to/refs/heads/main/20250303_055414.jpg'/>
 
 <img align="center" height="auto"
 src="https://files.catbox.moe/gld2vo.jpg?"/>
